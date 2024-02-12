@@ -3,6 +3,8 @@ Martyr's Memorial Football League is a application
 that gives you personalized information about the local and national football 
 tournaments and detailed information about the history and foundation of a club as well.
 
+![Application Logo Theme](Images/logonp1.png)
+
 ## Features
 - Data Integrity and Security
 - Personalized Profile
@@ -26,11 +28,11 @@ except:
     messagebox.showerror('Error','Database Connection Error')
 ```
 
+
 | Example Account | Example Password |
 |-----------------|------------------|
 | 123456789       | Admin@123        |
 
-![Application Logo Theme](Images/logonp1.png)
 
 ## GitHub Repository
 [GitHub Main](https://github.com/saugatshahi)
